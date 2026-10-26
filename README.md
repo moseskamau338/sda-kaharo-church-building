@@ -4,6 +4,16 @@ An interactive 3D concept of a 300-seat Seventh-day Adventist church for Kaharo,
 
 **Open it:** open `index.html` in a browser, or turn on GitHub Pages (Settings → Pages → Deploy from branch → `main` / root) to get a shareable link.
 
+## Project structure
+
+```
+index.html            page markup
+css/styles.css        all styles
+js/app.js             the 3D scene, views, settings and controls
+js/logo-data.js       SDA logo as an inline PNG (keeps the model working when opened from disk)
+assets/               official logo files (SVG source and PNG)
+```
+
 ## What's in the model
 
 - **Main hall:** 16 × 28 m, 6 m walls, raked timber ceiling, 300 seats.
