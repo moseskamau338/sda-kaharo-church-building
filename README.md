@@ -1,5 +1,7 @@
 # SDA Church Kaharo: 3D concept model
 
+![SDA Church Kaharo, front view of the 3D model](assets/screenshot-exterior.jpg)
+
 An interactive 3D concept of a 300-seat Seventh-day Adventist church for Kaharo, on a 0.9-acre plot. It runs in any web browser and needs no install.
 
 **Open it:** open `index.html` in a browser, or turn on GitHub Pages (Settings → Pages → Deploy from branch → `main` / root) to get a shareable link.
